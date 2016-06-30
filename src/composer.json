@@ -1,0 +1,15 @@
+{
+    "name": "TRight/toastr-for-laravel",
+    "authors": [
+        {
+            "name": "TRight",
+            "email": "915840223@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Yuansir\\Toastr\\":"src/"
+        }
+    }
+}
